@@ -1,2 +1,2 @@
 ## Horizon
-![alt text](../../screenshots/Horizon.png)
+![alt text](screenshot.png)
