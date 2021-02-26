@@ -11,3 +11,6 @@ bspc config normal_border_color "#282e3a"
 
 #$HOME/.config/bspwm/bspborders &
 #$HOME/.scripts/autostart.bspwm
+
+#slinkous' added stuff
+picom -b --experimental-backends
