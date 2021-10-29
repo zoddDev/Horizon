@@ -485,13 +485,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -584,7 +577,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -1486,17 +1480,17 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#292828",
+    "themeBackground": "#1c1e26",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///home/zodd/Dropbox/Programming/Maude",
             "backupPath": "/home/zodd/.config/Code/Backups/b3e372e9263eb7973f4bd0d9960410ae",
             "uiState": {
                 "mode": 1,
-                "x": 20,
-                "y": 64,
-                "width": 2520,
-                "height": 996
+                "x": 23,
+                "y": 67,
+                "width": 1498,
+                "height": 990
             }
         },
         "openedWindows": []
@@ -1504,14 +1498,14 @@
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#a89984",
-            "background": "#292828",
-            "editorBackground": "#292828",
-            "titleBarBackground": "#292828",
-            "activityBarBackground": "#292828",
-            "sideBarBackground": "#292828",
-            "statusBarBackground": "#292828",
-            "statusBarNoFolderBackground": "#292828"
+            "foreground": "#d5d8da",
+            "background": "#1c1e26",
+            "editorBackground": "#1c1e26",
+            "titleBarBackground": "#1c1e26",
+            "activityBarBackground": "#1c1e26",
+            "sideBarBackground": "#1c1e26",
+            "statusBarBackground": "#1c1e26",
+            "statusBarNoFolderBackground": "#1c1e26"
         },
         "layoutInfo": {
             "sideBarSide": "left",
