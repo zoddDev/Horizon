@@ -1,0 +1,12 @@
+<templateSet group="Java">
+  <template name="syso" value="System.out.println($END$);" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ezfor" value="for (int i = 0; i &lt;  $END$; i++) {&#10;    &#10;}" description="for statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

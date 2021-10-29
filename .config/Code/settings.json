@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "editor.cursorStyle": "block",
+    "todo-tree.tree.showScanModeButton": false,
+    "python.languageServer": "Pylance",
+    "tabnine.experimentalAutoImports": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Hack NF",
+    "editor.fontLigatures": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "latex-workshop.message.update.show": false,
+    "angular.experimental-ivy": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.iconTheme": "vs-nomo-dark",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "redhat.telemetry.enabled": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 16,
+    "window.menuBarVisibility": "toggle"
+}

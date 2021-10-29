@@ -1,0 +1,6 @@
+com.arcticicestudio.nord.jetbrains
+com.lemley.idea
+com.vermouthx.idea
+com.mallowigi
+org.jetbrains.kotlin
+com.haulmont.jpab
