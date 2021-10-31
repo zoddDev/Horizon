@@ -7,7 +7,7 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "explorer.confirmDelete": false,
-    "editor.fontFamily": "Hack NF",
+    "editor.fontFamily": "Hack Nerd Font",
     "editor.fontLigatures": true,
     "C_Cpp.updateChannel": "Insiders",
     "latex-workshop.message.update.show": false,

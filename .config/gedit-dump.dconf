@@ -8,7 +8,7 @@ virtual-root='file:///home/zodd/Documents/git-lab/dotfiles/setup-scripts'
 
 [preferences/editor]
 editor-font='Monoid Nerd Font Light Semi-Condensed 9'
-scheme='gruvbox-dark'
+scheme='nord-gedit'
 use-default-font=false
 wrap-last-split-mode='word'
 
