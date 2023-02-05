@@ -273,7 +273,7 @@ format-volume-padding = 1
 format-muted = <label-muted>
 format-muted-background = ${colors.white} 	
 format-muted-foreground = ${colors.background}
-label-muted ="  "
+label-muted =" 󰝟 "
 format-muted-font = 2
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 [module/battery]
